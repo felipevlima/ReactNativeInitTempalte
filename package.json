@@ -2,7 +2,7 @@
   "name": "react-native-initial-template",
   "version": "0.0.5",
   "description": "React Native Template",
-  "repository": "",
+  "repository": "https://github.com/felipevlima/ReactNativeInitTempalte",
   "author": "Felipe Vieira Lima",
   "license": "MIT"
 }
